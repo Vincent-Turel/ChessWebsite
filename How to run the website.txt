@@ -1,0 +1,19 @@
+Here is the steps required to test our website on Windows:
+
+1. Go on https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/install 
+
+2. Download .NET SDk (64-bit)
+
+3. Follow installation
+
+4. open a terminal and cd to ./ChessGame 
+
+5. run 'dotnet watch'
+
+The website should open in the default browser. If dotnet command is not recognize, reboot the computer might help.
+
+To run the test :
+
+1. cd ./ChessGameTest
+
+2. run 'dotnet test"
